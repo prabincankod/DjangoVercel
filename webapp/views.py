@@ -6,4 +6,4 @@ from django.http import HttpResponse
 def home(request):
     message = "Making a Standard Template for vercel django deployment"
     anotherMessage = "bite my shiny metal ass."
-    return HttpResponse(message)
+    return HttpResponse(message+anotherMessage)
