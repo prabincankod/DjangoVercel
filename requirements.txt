@@ -1,4 +1,4 @@
-asgiref==3.5.1
+asgiref
 Django==4.1.10
 sqlparse==0.4.4
 tzdata==2022.1
